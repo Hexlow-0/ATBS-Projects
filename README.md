@@ -11,7 +11,7 @@ Working through Al Sweigart's *Automate the Boring Stuff with Python*, chapter b
 | 02 — Flow Statements | Loops, conditionals, basic input validation | 11 |
 | 03 — Functions | Writing and structuring reusable functions | 16 |
 | 04 — Lists | List operations, structuring and tracking data | 11 |
-| 07 — Dictionaries | Nested data, lookup tables, dedup, comprehensions — this one got out of hand | 94 |
+| 07 — Dictionaries | Nested data, lookup tables, dedup, comprehensions | 94 |
 | 08 — Strings | String methods, formatting, text processing | 30 |
 | 09 — Regex | Pattern matching, validators | 15 |
 | 10 — File I/O | Reading/writing files, basic log analysis | 15 |

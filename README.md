@@ -32,6 +32,3 @@ python3 "Chapter 2 Flow Statements/Chapter 2 Project 1 (Guess the number).py"
 
 ---
 
-### Contact
-
-- Email: `ben.holloway@proton.me`
